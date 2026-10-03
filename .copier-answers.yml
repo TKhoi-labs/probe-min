@@ -1,0 +1,22 @@
+---
+# Changes here will be overwritten by Copier.
+# This file is the module manifest that `just health` reads.
+_commit: v0.1.1
+_src_path: gh:TKhoi-labs/repo-template
+copyright_holder: TKhoi-labs
+description: ''
+license: MIT
+license_year: 2026
+module_ci: true
+module_commits: true
+module_contributing: false
+module_deps: true
+module_docs: false
+module_env: false
+module_ops: false
+module_release: false
+module_security: false
+org_slug: TKhoi-labs
+project_name: probe-min
+project_slug: probe-min
+workflow_ref: 19f45b68e4ca46d42d881caee72f998f353ccaaf
